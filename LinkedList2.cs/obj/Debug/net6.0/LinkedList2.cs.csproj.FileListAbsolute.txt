@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\LinkedList2.cs.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\LinkedList2.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\LinkedList2.cs.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\LinkedList2.cs.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\LinkedList2.cs.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\bin\Debug\net6.0\LinkedList2.cs.exe
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\bin\Debug\net6.0\LinkedList2.cs.deps.json
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\bin\Debug\net6.0\LinkedList2.cs.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\bin\Debug\net6.0\LinkedList2.cs.dll
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\bin\Debug\net6.0\LinkedList2.cs.pdb
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\LinkedList2.cs.dll
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\refint\LinkedList2.cs.dll
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\LinkedList2.cs.pdb
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\LinkedList2.cs.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LinkedListProjectSol\LinkedList2.cs\obj\Debug\net6.0\ref\LinkedList2.cs.dll
